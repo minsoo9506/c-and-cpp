@@ -1,4 +1,4 @@
-﻿// 선택정렬
+﻿// 삽입정렬
 // https://gmlwjd9405.github.io/2018/05/06/algorithm-insertion-sort.html
 
 #include <iostream>
